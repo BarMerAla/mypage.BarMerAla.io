@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" 
+integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>  
+ 
+    <title>Резюме</title>
+    <link rel="stylesheet" href="style_resume.css">
+   
+
+
+    <style>
+        .rightpic {
+         float: right; /* Выравнивание по правому краю */
+         margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+        }
+       </style>
+</head>
+
+<body>
+   
+    <img id="my_image" src="C:\Users\Asus\Desktop\Картинки\kot_v_ochkakh.jpg" width="190" height="250" class="rightpic">
+    <b><h2 style="text-justify: center">БАРАҚБАЕВ МЕРЕКЕ МӘУЛЕНҰЛЫ</h2></b>
+    <p style="text-justify: center">Дата рождения: 24.03.1992</p>
+    <p style="text-justify: center">Город: Алматы</p>
+    <a href="https://wa.me/77018938933"><div><img src="media_30oct\icon-whatsapp.png"></div> <h4 style="text-justify: center"> +77018938933</h4> </a> 
+    <a href="https://t.me/+77018938933"><div><img src="media_30oct\icon-телеграмма.png"></div> <h4 style="text-justify: center"> +77018938933</h4> </a>
+    <a href="mailto:mereke.mr@bk.ru"> <div><img src="media_30oct\icons-почта.png"></div> <h4 style="text-justify: center">email: mereke.mr@bk.ru</h4> </a>
+  
+
+<hr>
+    
+    <b><p style="text-justify: center">ОПЫТ РАБОТЫ</p></b>
+    <li style="text-justify: center">TOO "OTAN TRAVEL" - С апреля 2018 г. по февраль 2019 г - Менеджер по бронированию авиабилетов.</li>
+    <li style="text-justify: center">TOO "NOMAD TRAVEL" - С октября 2019 г. по настоящее время - Менеджер по бронированию авиабилетов.</li>
+
+<hr>    
+    <b><p style="text-justify: center">ОБРАЗОВАНИЕ: ВЫСШЕЕ НЕОКОНЧЕННОЕ</p></b>
+    <li style="text-justify: center"> 2009 - 2013 годы</li>
+    <li style="text-justify: center"> КазНУ имени аль-Фараби</li>
+    <ul>
+        <li style="text-justify: center">Факультет - Физико-технически</li>
+        <li style="text-justify: center">Специальность - Астрономия</li>
+    </ul>
+        
+<hr>
+    <b><p style="text-justify: center">ЗНАНИЕ ЯЗЫКОВ</p></b>
+    <ul>
+        <li style="text-justify: center">Казахский - родной</li>
+        <li style="text-justify: center">Русский - свободно</li>
+        <li style="text-justify: center">Английский - pre-intermediate</li>
+    </ul>
+
+<hr>
+    <b><p style="text-justify: center">ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ И ЗНАНИЯ</p></b>
+    <ul>
+        <li style="text-justify: center">MS OFFICE</li>
+        <li style="text-justify: center">GDS система AMADEUS</li>
+        <li style="text-justify: center">1C Предприятие</li>
+    </ul>
+
+<hr>
+    <b><p style="text-justify: center">ПРОЧЕЕ</p></b>
+    <li style="text-justify: center">Не имею вредных привычек. Увлекаюсь плаванием, чтением книг, компьютерными играми, веду активный образ жизни.</li>
+
+<hr>
+
+
+    
+<a href="C:\Users\Asus\Desktop\Python\justcode_python\4_October\lesson_52_30oct\second_page.html">Вперед!</a>
+
+
+<script src="C:\Users\Asus\Desktop\Python\justcode_python\5_November\lesson_55_07nov\js\srcipt.js"></script>
+</body>
+
+</html>
