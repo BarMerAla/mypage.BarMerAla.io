@@ -21,7 +21,7 @@ integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="ano
 
 <body>
    
-    <img id="my_image" src="C:\Users\Asus\Desktop\Картинки\kot_v_ochkakh.jpg" width="190" height="250" class="rightpic">
+    <img id="my_image" src="css/kot_v_ochkakh.jpg" width="190" height="250" class="rightpic">
     <b><h2 style="text-justify: center">БАРАҚБАЕВ МЕРЕКЕ МӘУЛЕНҰЛЫ</h2></b>
     <p style="text-justify: center">Дата рождения: 24.03.1992</p>
     <p style="text-justify: center">Город: Алматы</p>
