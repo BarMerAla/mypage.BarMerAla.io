@@ -32,7 +32,7 @@ $(document).ready(function(){
 
   // 1) смена аттрибутов элемента
  $("#my_image").click(function(){
-  $("#my_image").attr("src", "C:\\Users\\Asus\\Desktop\\Картинки\\kot_two.jpg");
+  $("#my_image").attr("src", "css/kot_two.jpg");
  });
   
   // 2) смена текста
